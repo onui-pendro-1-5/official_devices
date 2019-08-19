@@ -1,0 +1,11 @@
+=============
+ Changelog v1.5
+Date :17/05/2019
+- Initial build
+- August Security Patch r46
+- Kernel Version 4.4.187
+- Built with clang 9.0.5
+- Added Thermal Controller in Apps settings
+- Xiaomi Parts for customisation
+- Latest vendor blobs
+=============

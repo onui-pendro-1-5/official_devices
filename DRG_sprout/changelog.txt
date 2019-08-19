@@ -1,0 +1,14 @@
+Changelog
+=========
+
+* initial build
+* Based On R46
+* August 2019 security patch
+* linux version - 4.4.186
+* Based on Kiwi's-kernel-RV
+* Rom Based on LineageOS , Aosp & Pixel Experience ( I really thank to all of them for the standard code )
+* system blobs used from latest Pie DRG354H ( July 2019 Full Ota )
+* prebuilt-vendor.img from DRG354H ( July 2019 full ota )
+* Rom Comes with Stock Camera , Google Camera &  Oneplus 6 ( Enchilada ) Camera
+* No need to flash gapps
+* You people will receive ota updates weekly or twice per week or once per month ( for stability )

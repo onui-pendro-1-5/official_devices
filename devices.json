@@ -1,0 +1,26 @@
+[
+    {
+        "name": "6.1 Plus",
+        "brand": "Nokia",
+        "codename": "DRG_sprout",
+        "maintainer_name": "RaghuVarma Gadhiraju",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8154034",
+        "xda_thread": "https://forum.xda-developers.com/nokia-6-1-plus/development"
+    },
+    {
+        "name": "Redmi Note 5 Pro",
+        "brand": "Xiaomi",
+        "codename": "whyred",
+        "maintainer_name": "RaghuVarma Gadhiraju",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8154034",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development"
+    },
+    {
+        "name": "MI A2",
+        "brand": "Xiaomi",
+        "codename": "jasmine_sprout",
+        "maintainer_name": "Venkat Yadlapati",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+        "xda_thread": "https://forum.xda-developers.com/mi-a2/development"        
+    }
+]    

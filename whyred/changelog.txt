@@ -1,0 +1,20 @@
+Changelog
+=========
+
+* initial build
+* Based On R46
+* August 2019 security patch
+* linux version - 4.4.186
+* Based on Illusion-v5.5-PixelExp 
+* devices sources based on Pixel Experience Trees
+* Rom Based on LineageOS , Aosp & Pixel Experience ( I really thank to all of them for the standard code )
+* vendor blobs used from latest Pie V10.3.1.0.PEIMIXM ( due to current vendor blobs removed from 
+  all the locations by github with some copy right issues )
+* Rom Comes with Miui Camera
+* No need to flash gapps
+* this is just basic build not yet added anykind of customizations
+* You people will receive ota updates weekly or twice per week or once per month ( for stability )
+* Add Oneplus 6 ( Enchilada ) Camera
+* Added Oneplus 7pro wallpapers , Samsung Galaxy Note 8 , s9 & J6 wallpaers
+* also added oneplus 7 pro live wallpapers
+* comes with OxygenOS Slate font as default
