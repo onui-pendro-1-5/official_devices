@@ -22,5 +22,13 @@
         "maintainer_name": "Venkat Yadlapati",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
         "xda_thread": "https://forum.xda-developers.com/mi-a2/development"        
-    }
+    },
+    {
+        "name": "Pocophone F1",
+        "brand": "Xiaomi",
+        "codename": "beryllium",
+        "maintainer_name": "Venkat Yadlapati",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+        "xda_thread": "https://forum.xda-developers.com/poco-f1/development"        
+    }    
 ]    
