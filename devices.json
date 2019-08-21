@@ -30,5 +30,13 @@
         "maintainer_name": "Venkat Yadlapati",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
         "xda_thread": "https://forum.xda-developers.com/poco-f1/development"        
-    }    
+    },    
+    {
+        "name": "MI 6X",
+        "brand": "Xiaomi",
+        "codename": "wayne",
+        "maintainer_name": "Venkat Yadlapati",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+        "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne"        
+    }      
 ]    
